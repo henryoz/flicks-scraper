@@ -6,6 +6,12 @@ var app = express();
 
 var cleaner = require('./utilities/cleaner');
 
+// TODO: refactor so that this is pulling in a series of smaller scrapers that
+// execute in the following order:
+// - scrape category NAMEs and URLs
+// - scrape category FILM TITLES, YEARS, RATINGS, and URLs (check for lack of
+// #nav-next to know when to stop). Also include GENRE alongside each entry.
+
 app.get('/scrape', function(req, res) {
 
   url = 'http://www.20thcenturyflicks.co.uk/index.php?view=categories';
@@ -28,11 +34,16 @@ app.get('/scrape', function(req, res) {
         )
       });
 
-      fs.writeFile('categories.json', JSON.stringify(categories, null, 4), function(err){
+      fs.writeFile('logs/categories.json', JSON.stringify(categories, null, 4), function(err){
         console.log('File successfully written! - Check your project directory for the output.json file');
       });
 
-      res.send('Check your console!')
+      for (i = 0; i < categories.length;) {
+        console.log(categories[i].url);
+        i++;
+      }
+
+      res.sendFile('gifs/anakin.gif', {root: __dirname});
 
     }
     else { console.log(error)}
