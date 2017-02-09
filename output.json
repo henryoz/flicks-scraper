@@ -1,0 +1,798 @@
+[
+    {
+        "name": "01 Adam's Faves",
+        "url": "index.php?view=category_combine&id=AD "
+    },
+    {
+        "name": "01 Ade tastics",
+        "url": "index.php?view=category_combine&id=AF "
+    },
+    {
+        "name": "01 Becky's Bests",
+        "url": "index.php?view=category_combine&id=RB"
+    },
+    {
+        "name": "01 Dave B's must sees",
+        "url": "index.php?view=category_combine&id=db"
+    },
+    {
+        "name": "01 Dave W (Whisky) Faves",
+        "url": "index.php?view=category_combine&id=daw"
+    },
+    {
+        "name": "01 Kelly's Heroes",
+        "url": "index.php?view=category_combine&id=KH"
+    },
+    {
+        "name": "01 Mel's Must Sees",
+        "url": "index.php?view=category_combine&id=24"
+    },
+    {
+        "name": "01 Tara's Midnight Movies",
+        "url": "index.php?view=category_combine&id=tar"
+    },
+    {
+        "name": "01 Will's stamp of approval",
+        "url": "index.php?view=category_combine&id=WF"
+    },
+    {
+        "name": "10th Century",
+        "url": "index.php?view=category_combine&id=c10"
+    },
+    {
+        "name": "11th Century",
+        "url": "index.php?view=category_combine&id=19"
+    },
+    {
+        "name": "12th Century",
+        "url": "index.php?view=category_combine&id=12"
+    },
+    {
+        "name": "13th Century",
+        "url": "index.php?view=category_combine&id=119"
+    },
+    {
+        "name": "14th Century",
+        "url": "index.php?view=category_combine&id=ft"
+    },
+    {
+        "name": "15th Century",
+        "url": "index.php?view=category_combine&id=FC"
+    },
+    {
+        "name": "16th Century",
+        "url": "index.php?view=category_combine&id=161"
+    },
+    {
+        "name": "17th Century",
+        "url": "index.php?view=category_combine&id=84"
+    },
+    {
+        "name": "18th Century",
+        "url": "index.php?view=category_combine&id=122"
+    },
+    {
+        "name": "1900-1919",
+        "url": "index.php?view=category_combine&id=te"
+    },
+    {
+        "name": "1920s",
+        "url": "index.php?view=category_combine&id=147"
+    },
+    {
+        "name": "1930s",
+        "url": "index.php?view=category_combine&id=135"
+    },
+    {
+        "name": "1940s",
+        "url": "index.php?view=category_combine&id=61"
+    },
+    {
+        "name": "1950s",
+        "url": "index.php?view=category_combine&id=127"
+    },
+    {
+        "name": "1960s",
+        "url": "index.php?view=category_combine&id=83"
+    },
+    {
+        "name": "1970s",
+        "url": "index.php?view=category_combine&id=148"
+    },
+    {
+        "name": "1980s",
+        "url": "index.php?view=category_combine&id=73"
+    },
+    {
+        "name": "1990s",
+        "url": "index.php?view=category_combine&id=199"
+    },
+    {
+        "name": "19th Century",
+        "url": "index.php?view=category_combine&id=16"
+    },
+    {
+        "name": "1st Century",
+        "url": "index.php?view=category_combine&id=1c"
+    },
+    {
+        "name": "2000s",
+        "url": "index.php?view=category_combine&id=20"
+    },
+    {
+        "name": "2nd Century",
+        "url": "index.php?view=category_combine&id=2c"
+    },
+    {
+        "name": "4th Century",
+        "url": "index.php?view=category_combine&id=4c"
+    },
+    {
+        "name": "5th Century",
+        "url": "index.php?view=category_combine&id=5th"
+    },
+    {
+        "name": "6th Century",
+        "url": "index.php?view=category_combine&id=162"
+    },
+    {
+        "name": "7th Century",
+        "url": "index.php?view=category_combine&id=7th"
+    },
+    {
+        "name": "8th Century",
+        "url": "index.php?view=category_combine&id=8c"
+    },
+    {
+        "name": "9th Century",
+        "url": "index.php?view=category_combine&id=9c"
+    },
+    {
+        "name": "Abduction",
+        "url": "index.php?view=category_combine&id=114"
+    },
+    {
+        "name": "Acid Western",
+        "url": "index.php?view=category_combine&id=aw"
+    },
+    {
+        "name": "AFI Best Film Winners",
+        "url": "index.php?view=category_combine&id=AU"
+    },
+    {
+        "name": "AFI Top 100 Movies Ever",
+        "url": "index.php?view=category_combine&id=AFI"
+    },
+    {
+        "name": "AIDS Related",
+        "url": "index.php?view=category_combine&id=AI "
+    },
+    {
+        "name": "Animation",
+        "url": "index.php?view=category_combine&id=AN "
+    },
+    {
+        "name": "Architecture",
+        "url": "index.php?view=category_combine&id=ac"
+    },
+    {
+        "name": "Asian New Wave",
+        "url": "index.php?view=category_combine&id=anw"
+    },
+    {
+        "name": "Aviation",
+        "url": "index.php?view=category_combine&id=109"
+    },
+    {
+        "name": "BAFTA (Best Direction)",
+        "url": "index.php?view=category_combine&id=bbd"
+    },
+    {
+        "name": "BAFTA (Best Female Lead)",
+        "url": "index.php?view=category_combine&id=bba"
+    },
+    {
+        "name": "BAFTA (Best Film)",
+        "url": "index.php?view=category_combine&id=bbf"
+    },
+    {
+        "name": "BAFTA (Best Male Lead)",
+        "url": "index.php?view=category_combine&id=bbm"
+    },
+    {
+        "name": "Ballet",
+        "url": "index.php?view=category_combine&id=BA "
+    },
+    {
+        "name": "Before Christ (BC)",
+        "url": "index.php?view=category_combine&id=BC"
+    },
+    {
+        "name": "Ben's Faves",
+        "url": "index.php?view=category_combine&id=BB "
+    },
+    {
+        "name": "Berlin Golden Bear Winner",
+        "url": "index.php?view=category_combine&id=GB"
+    },
+    {
+        "name": "BFI Top 100 British Movies",
+        "url": "index.php?view=category_combine&id=BFI"
+    },
+    {
+        "name": "Biblical Epics",
+        "url": "index.php?view=category_combine&id=be"
+    },
+    {
+        "name": "Big Business",
+        "url": "index.php?view=category_combine&id=BU"
+    },
+    {
+        "name": "Bikers/Cyclists",
+        "url": "index.php?view=category_combine&id=bk"
+    },
+    {
+        "name": "Biopic",
+        "url": "index.php?view=category_combine&id=bx"
+    },
+    {
+        "name": "Black Interest",
+        "url": "index.php?view=category_combine&id=BI "
+    },
+    {
+        "name": "Bollywood",
+        "url": "index.php?view=category_combine&id=BW"
+    },
+    {
+        "name": "Bond (James)",
+        "url": "index.php?view=category_combine&id=BO "
+    },
+    {
+        "name": "Brat Pack",
+        "url": "index.php?view=category_combine&id=BP "
+    },
+    {
+        "name": "Cannes Best Actor",
+        "url": "index.php?view=category_combine&id=CA"
+    },
+    {
+        "name": "Cannes Best Actress",
+        "url": "index.php?view=category_combine&id=CAP"
+    },
+    {
+        "name": "Cannes Best Director",
+        "url": "index.php?view=category_combine&id=CAQ"
+    },
+    {
+        "name": "Cannes Grand Prize of the Jury",
+        "url": "index.php?view=category_combine&id=CG"
+    },
+    {
+        "name": "Cannes Jury Prize",
+        "url": "index.php?view=category_combine&id=Cp"
+    },
+    {
+        "name": "Cannes Palme d'Or Winner",
+        "url": "index.php?view=category_combine&id=CAN"
+    },
+    {
+        "name": "Chases; Cars buses, etc,",
+        "url": "index.php?view=category_combine&id=149"
+    },
+    {
+        "name": "Chick Flicks",
+        "url": "index.php?view=category_combine&id=RC "
+    },
+    {
+        "name": "Children's",
+        "url": "index.php?view=category_combine&id=CH "
+    },
+    {
+        "name": "Christmas Films",
+        "url": "index.php?view=category_combine&id=XM "
+    },
+    {
+        "name": "Civil Rights",
+        "url": "index.php?view=category_combine&id=CR"
+    },
+    {
+        "name": "Classics",
+        "url": "index.php?view=category_combine&id=CL "
+    },
+    {
+        "name": "Colleges & Students",
+        "url": "index.php?view=category_combine&id=COL"
+    },
+    {
+        "name": "Coming of Age",
+        "url": "index.php?view=category_combine&id=age"
+    },
+    {
+        "name": "Computers",
+        "url": "index.php?view=category_combine&id=57"
+    },
+    {
+        "name": "Creature Features",
+        "url": "index.php?view=category_combine&id=cf"
+    },
+    {
+        "name": "Critics' Top 100",
+        "url": "index.php?view=category_combine&id=to"
+    },
+    {
+        "name": "Cult",
+        "url": "index.php?view=category_combine&id=CU "
+    },
+    {
+        "name": "Dance",
+        "url": "index.php?view=category_combine&id=28"
+    },
+    {
+        "name": "Dave T's Platinum Picks",
+        "url": "index.php?view=category_combine&id=DF"
+    },
+    {
+        "name": "Desert",
+        "url": "index.php?view=category_combine&id=54"
+    },
+    {
+        "name": "Detectives and Private Eyes",
+        "url": "index.php?view=category_combine&id=DE"
+    },
+    {
+        "name": "Disability/Handicap",
+        "url": "index.php?view=category_combine&id=DS"
+    },
+    {
+        "name": "Disaster",
+        "url": "index.php?view=category_combine&id=22"
+    },
+    {
+        "name": "Documentary",
+        "url": "index.php?view=category_combine&id=DO "
+    },
+    {
+        "name": "Dogme 95",
+        "url": "index.php?view=category_combine&id=dg"
+    },
+    {
+        "name": "Drinking/drunk",
+        "url": "index.php?view=category_combine&id=154"
+    },
+    {
+        "name": "Drugs Related",
+        "url": "index.php?view=category_combine&id=59"
+    },
+    {
+        "name": "Ealing comedy",
+        "url": "index.php?view=category_combine&id=38"
+    },
+    {
+        "name": "Education/Teaching",
+        "url": "index.php?view=category_combine&id=ET"
+    },
+    {
+        "name": "Empire",
+        "url": "index.php?view=category_combine&id=14"
+    },
+    {
+        "name": "Erotica",
+        "url": "index.php?view=category_combine&id=ER"
+    },
+    {
+        "name": "Family Viewing",
+        "url": "index.php?view=category_combine&id=FV "
+    },
+    {
+        "name": "Fantasy",
+        "url": "index.php?view=category_combine&id=Fan"
+    },
+    {
+        "name": "Feel Good",
+        "url": "index.php?view=category_combine&id=FG"
+    },
+    {
+        "name": "Film in Film",
+        "url": "index.php?view=category_combine&id=74"
+    },
+    {
+        "name": "Film Noir",
+        "url": "index.php?view=category_combine&id=FN "
+    },
+    {
+        "name": "Food",
+        "url": "index.php?view=category_combine&id=67"
+    },
+    {
+        "name": "Gangster/Mob",
+        "url": "index.php?view=category_combine&id=GA "
+    },
+    {
+        "name": "Gay Interest",
+        "url": "index.php?view=category_combine&id=GY "
+    },
+    {
+        "name": "Genetics",
+        "url": "index.php?view=category_combine&id=95"
+    },
+    {
+        "name": "Giallo",
+        "url": "index.php?view=category_combine&id=gia"
+    },
+    {
+        "name": "Guns",
+        "url": "index.php?view=category_combine&id=GU"
+    },
+    {
+        "name": "Hammer Horror",
+        "url": "index.php?view=category_combine&id=HH"
+    },
+    {
+        "name": "Horror",
+        "url": "index.php?view=category_combine&id=HO "
+    },
+    {
+        "name": "Illusionists",
+        "url": "index.php?view=category_combine&id=Ill"
+    },
+    {
+        "name": "Incest",
+        "url": "index.php?view=category_combine&id=56"
+    },
+    {
+        "name": "Inspirational Speechmaking",
+        "url": "index.php?view=category_combine&id=81"
+    },
+    {
+        "name": "Iraq Wars",
+        "url": "index.php?view=category_combine&id=ir"
+    },
+    {
+        "name": "J-Horror",
+        "url": "index.php?view=category_combine&id=jh"
+    },
+    {
+        "name": "Jungle",
+        "url": "index.php?view=category_combine&id=72"
+    },
+    {
+        "name": "Kitchen Sink",
+        "url": "index.php?view=category_combine&id=106"
+    },
+    {
+        "name": "Law/Legal/Solicitors/Trials",
+        "url": "index.php?view=category_combine&id=87"
+    },
+    {
+        "name": "Leftie Flicks",
+        "url": "index.php?view=category_combine&id=rp"
+    },
+    {
+        "name": "Lesbian Interest",
+        "url": "index.php?view=category_combine&id=LE"
+    },
+    {
+        "name": "Literary Classics",
+        "url": "index.php?view=category_combine&id=LC "
+    },
+    {
+        "name": "Local Interest (Bristol)",
+        "url": "index.php?view=category_combine&id=BR"
+    },
+    {
+        "name": "Lulu Loves ...",
+        "url": "index.php?view=category_combine&id=LL"
+    },
+    {
+        "name": "Made for TV",
+        "url": "index.php?view=category_combine&id=TV "
+    },
+    {
+        "name": "Madness and Mental Illness",
+        "url": "index.php?view=category_combine&id=mdn"
+    },
+    {
+        "name": "Making of/Extras",
+        "url": "index.php?view=category_combine&id=EX"
+    },
+    {
+        "name": "Manga",
+        "url": "index.php?view=category_combine&id=MG "
+    },
+    {
+        "name": "Martial Arts",
+        "url": "index.php?view=category_combine&id=MA "
+    },
+    {
+        "name": "Media/Journalism",
+        "url": "index.php?view=category_combine&id=med"
+    },
+    {
+        "name": "Medical",
+        "url": "index.php?view=category_combine&id=107"
+    },
+    {
+        "name": "Motion Capture",
+        "url": "index.php?view=category_combine&id=moc"
+    },
+    {
+        "name": "Murder Mystery",
+        "url": "index.php?view=category_combine&id=mm"
+    },
+    {
+        "name": "Music",
+        "url": "index.php?view=category_combine&id=70"
+    },
+    {
+        "name": "Music Videos",
+        "url": "index.php?view=category_combine&id=MV "
+    },
+    {
+        "name": "Musical",
+        "url": "index.php?view=category_combine&id=MU "
+    },
+    {
+        "name": "Mythology",
+        "url": "index.php?view=category_combine&id=MY"
+    },
+    {
+        "name": "Natural History (Wildlife)",
+        "url": "index.php?view=category_combine&id=NH "
+    },
+    {
+        "name": "Neo-noir",
+        "url": "index.php?view=category_combine&id=NN"
+    },
+    {
+        "name": "Neo-Realism",
+        "url": "index.php?view=category_combine&id=Neo"
+    },
+    {
+        "name": "Northern Ireland",
+        "url": "index.php?view=category_combine&id=155"
+    },
+    {
+        "name": "Nuclear",
+        "url": "index.php?view=category_combine&id=4"
+    },
+    {
+        "name": "Old Marc's Faves",
+        "url": "index.php?view=category_combine&id=mo"
+    },
+    {
+        "name": "Opera",
+        "url": "index.php?view=category_combine&id=OP "
+    },
+    {
+        "name": "Oscar (Best Director)",
+        "url": "index.php?view=category_combine&id=od"
+    },
+    {
+        "name": "Oscar (Best Documentary)",
+        "url": "index.php?view=category_combine&id=OBD"
+    },
+    {
+        "name": "Oscar (Best Female Lead)",
+        "url": "index.php?view=category_combine&id=BAO"
+    },
+    {
+        "name": "Oscar (Best Foreign Language)",
+        "url": "index.php?view=category_combine&id=BFL"
+    },
+    {
+        "name": "Oscar (Best Male Lead)",
+        "url": "index.php?view=category_combine&id=BML"
+    },
+    {
+        "name": "Oscar (Best Picture)",
+        "url": "index.php?view=category_combine&id=OA"
+    },
+    {
+        "name": "Painting / Sculpture",
+        "url": "index.php?view=category_combine&id=8"
+    },
+    {
+        "name": "Peoples' Choice",
+        "url": "index.php?view=category_combine&id=imd"
+    },
+    {
+        "name": "Photography",
+        "url": "index.php?view=category_combine&id=ph"
+    },
+    {
+        "name": "Police",
+        "url": "index.php?view=category_combine&id=48"
+    },
+    {
+        "name": "Politics",
+        "url": "index.php?view=category_combine&id=80"
+    },
+    {
+        "name": "Post Apocalyptic",
+        "url": "index.php?view=category_combine&id=pa"
+    },
+    {
+        "name": "Prison",
+        "url": "index.php?view=category_combine&id=26"
+    },
+    {
+        "name": "Religion",
+        "url": "index.php?view=category_combine&id=52"
+    },
+    {
+        "name": "Revolution",
+        "url": "index.php?view=category_combine&id=76"
+    },
+    {
+        "name": "Road Movie",
+        "url": "index.php?view=category_combine&id=RM "
+    },
+    {
+        "name": "Rob Recommends",
+        "url": "index.php?view=category_combine&id=rr"
+    },
+    {
+        "name": "Robberies Burglaries Heists",
+        "url": "index.php?view=category_combine&id=RH"
+    },
+    {
+        "name": "Roman",
+        "url": "index.php?view=category_combine&id=11"
+    },
+    {
+        "name": "Romantic Comedy",
+        "url": "index.php?view=category_combine&id=RCO"
+    },
+    {
+        "name": "Salesman",
+        "url": "index.php?view=category_combine&id=124"
+    },
+    {
+        "name": "Samurai",
+        "url": "index.php?view=category_combine&id=sam"
+    },
+    {
+        "name": "Sarah's Specials",
+        "url": "index.php?view=category_combine&id=SA"
+    },
+    {
+        "name": "Science Fiction",
+        "url": "index.php?view=category_combine&id=SF "
+    },
+    {
+        "name": "Sea/Rivers/Boats/etc",
+        "url": "index.php?view=category_combine&id=47"
+    },
+    {
+        "name": "Serial Killers",
+        "url": "index.php?view=category_combine&id=SE"
+    },
+    {
+        "name": "Shakespeare",
+        "url": "index.php?view=category_combine&id=SH"
+    },
+    {
+        "name": "Short Film",
+        "url": "index.php?view=category_combine&id=SFZ"
+    },
+    {
+        "name": "Silent",
+        "url": "index.php?view=category_combine&id=SI "
+    },
+    {
+        "name": "Slavery",
+        "url": "index.php?view=category_combine&id=SL"
+    },
+    {
+        "name": "Soft Core",
+        "url": "index.php?view=category_combine&id=SC "
+    },
+    {
+        "name": "Space",
+        "url": "index.php?view=category_combine&id=166"
+    },
+    {
+        "name": "Sport",
+        "url": "index.php?view=category_combine&id=SP "
+    },
+    {
+        "name": "Stand up Comedy",
+        "url": "index.php?view=category_combine&id=ST "
+    },
+    {
+        "name": "Stoner Flicks",
+        "url": "index.php?view=category_combine&id=thc"
+    },
+    {
+        "name": "Studio Ghibli",
+        "url": "index.php?view=category_combine&id=GH"
+    },
+    {
+        "name": "Sundance Jury Prize: Dramatic",
+        "url": "index.php?view=category_combine&id=sz"
+    },
+    {
+        "name": "Superheroes",
+        "url": "index.php?view=category_combine&id=CSH"
+    },
+    {
+        "name": "Supernatural",
+        "url": "index.php?view=category_combine&id=102"
+    },
+    {
+        "name": "Surfing",
+        "url": "index.php?view=category_combine&id=25"
+    },
+    {
+        "name": "Sword and Sorcery",
+        "url": "index.php?view=category_combine&id=SS "
+    },
+    {
+        "name": "Technology",
+        "url": "index.php?view=category_combine&id=121"
+    },
+    {
+        "name": "Teen",
+        "url": "index.php?view=category_combine&id=112"
+    },
+    {
+        "name": "Toronto Festival Best Film",
+        "url": "index.php?view=category_combine&id=TR"
+    },
+    {
+        "name": "Trains",
+        "url": "index.php?view=category_combine&id=10"
+    },
+    {
+        "name": "True Stories",
+        "url": "index.php?view=category_combine&id=TS "
+    },
+    {
+        "name": "Vampires",
+        "url": "index.php?view=category_combine&id=89"
+    },
+    {
+        "name": "Venice Film Festival Best Film",
+        "url": "index.php?view=category_combine&id=VF"
+    },
+    {
+        "name": "Vietnam War",
+        "url": "index.php?view=category_combine&id=123"
+    },
+    {
+        "name": "Violence",
+        "url": "index.php?view=category_combine&id=VI "
+    },
+    {
+        "name": "Walt Disney Classics",
+        "url": "index.php?view=category_combine&id=WD "
+    },
+    {
+        "name": "War",
+        "url": "index.php?view=category_combine&id=171"
+    },
+    {
+        "name": "Weepie / Tear Jerker",
+        "url": "index.php?view=category_combine&id=TJ "
+    },
+    {
+        "name": "Werewolves",
+        "url": "index.php?view=category_combine&id=wef"
+    },
+    {
+        "name": "Western",
+        "url": "index.php?view=category_combine&id=WE "
+    },
+    {
+        "name": "Witchcraft / Occult",
+        "url": "index.php?view=category_combine&id=66"
+    },
+    {
+        "name": "Women on Film",
+        "url": "index.php?view=category_combine&id=WO"
+    },
+    {
+        "name": "Zombies",
+        "url": "index.php?view=category_combine&id=zf"
+    }
+]
