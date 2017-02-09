@@ -3,6 +3,7 @@ A simple scraping script to (hopefully) gather data on the venerable 20th Centur
 - data visualisation (breakdown of number of films by genre, year, RT score, Nic Cage appearances etc.
 - Netflix-esque (InterNetFlicks: please don't sue! edition) personal queue management and recommendations (poss. a chance to dick around with Elasticsearch a bit more)
 - film discovery journey: pick a film you've seen and traverse the Flicks catalogue based on relevant metadata (or Bacon score?)
+- Twitter bot that combines film titles into new Swede-able movies. Competition time?
 
 The possibilities are endless!
 
